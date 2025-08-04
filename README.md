@@ -1,6 +1,6 @@
 # FitSight: Your Personal AI Fitness Coach
 
-![FitSight Demo](https://storage.googleapis.com/maker-suite-project-files-prod/ai-apps/fitsight-demo.gif)
+![FitSight Demo](./assets/ssfit1.png)
 *(A GIF or screenshot of the running application would be great here!)*
 
 **FitSight is a real-time, browser-based AI personal trainer that uses your webcam to analyze your exercise form, count your reps, and provide instant, actionable feedback to help you work out safely and effectively.**
