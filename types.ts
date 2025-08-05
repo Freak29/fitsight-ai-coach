@@ -1,7 +1,10 @@
 
-import { Landmark } from '@mediapipe/tasks-vision';
-
-export { Landmark };
+export interface Landmark {
+    x: number;
+    y: number;
+    z: number;
+    visibility?: number;
+}
 
 export enum ExerciseName {
     SQUATS = 'squats',

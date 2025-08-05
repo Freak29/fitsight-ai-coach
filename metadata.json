@@ -3,5 +3,6 @@
   "description": "An intelligent fitness application that uses your webcam to analyze your exercise form in real-time. It provides instant feedback, tracks your reps, calculates calories burned, and offers motivational tips to keep you going.",
   "requestFramePermissions": [
     "camera"
-  ]
+  ],
+  "prompt": ""
 }
