@@ -62,5 +62,5 @@ This project is configured to run directly in the browser without any build proc
 
 ## 🧑‍💻 Authors
 
-*   [Your Name]
-*   [Your Teammate's Name]
+*   [Vaibhav Shikhar Singh]
+*   [Divyanshu Singh]
